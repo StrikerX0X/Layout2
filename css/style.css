@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    color: floralwhite;
+    text-align: center;
+}
+header{
+    overflow: hidden;
+}
+.logo{
+    width: 30%;
+    background-color: teal;
+    height: 100px;
+    float: left;
+}
+.banner{
+    width: 70%;
+    background-color: rgb(21, 231, 91);
+    height: 100px;
+    float: right;
+}
+.header-bar{
+    background-color: darkslategray;
+    height: 65px;
+}
+.content{
+    overflow: hidden;
+
+}
+.left{
+    background-color: violet;
+    width: 20%;
+    height: 400px;
+    float: left;
+
+}
+.center{
+    width: 60%;
+    background-color: yellow;
+    height: 400px;
+    float: left;
+}
+.top{
+    background-color: rgb(235, 14, 14);
+    height: 30%;
+}
+.middle{
+    background-color: rgb(165, 14, 235);
+    height: 40%;
+    overflow: hidden;
+}
+.middle-left{
+    width: 50%;
+    height: 100%;
+    background-color: rgb(50, 243, 11);
+    float: left;
+
+}
+.middle-right{
+    width: 50%;
+    height: 100%;
+    background-color: darkblue;
+    float: right;
+
+}
+    
+.bottom{
+    background-color: rgb(235, 14, 14);
+    height: 30%;
+}
+.right{
+    background-color: violet;
+    width: 20%;
+    height: 400px;
+    float: left;
+}
+footer{
+    background-color: darkorange;
+    height: 60px;
+}
+header h1{
+    padding-top: 30px;
+}
+.header-bar h1{
+    padding-top: 15px;
+}
+.left h1{
+    padding-top: 190px;
+}
+.right h1{
+    padding-top: 190px;
+}
+.top h1{
+    padding-top: 45px;
+}
+.middle h1{
+    padding-top: 70px;
+}
+.bottom h1{
+    padding-top: 45px;
+}
+footer h1{
+    padding-top: 12px;
+}
